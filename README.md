@@ -1,4 +1,4 @@
-# Awesome-Deepfake-Generation-Detection
+# Awesome Deepfake Generation and Detection
 
 ## Table of Contents
 -deepfake
