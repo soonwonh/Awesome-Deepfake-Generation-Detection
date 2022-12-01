@@ -16,7 +16,7 @@
 - [Towards generalizable forgery detection with locality-aware autoencoder](https://arxiv.org/abs/1909.05999) 2020 arXiv
 - [Advancing high fidelity identity swapping for forgery detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Advancing_High_Fidelity_Identity_Swapping_for_Forgery_Detection_CVPR_2020_paper.pdf) 2020 CVPR
 - [Protecting Celebrities from DeepFake with Identity Consistency Transformer](https://arxiv.org/abs/2203.01318) 2022 CVPR
-
+- [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406) 2021 CVPR
 
 ## Dataset
 - Contributing Data to Deepfake Detection Research
