@@ -5,7 +5,7 @@
 -DeepFake Detection
 
 ## DeepFake Generation
-- [Few-Shot Head](https://arxiv.org/abs/2204.13100) 2022 CVPR Oral
+- [Few-Shot Head Swapping in the Wild](https://arxiv.org/abs/2204.13100) 2022 CVPR Oral
 ## DeepFake Detection
 - [Classification-based anomaly detection for general data](https://arxiv.org/abs/2005.02359) 2020 ICLR
 - [Deep Anomaly Detection Using Geometric Transformations](https://arxiv.org/abs/1805.10917) 2020 NeurIPS
