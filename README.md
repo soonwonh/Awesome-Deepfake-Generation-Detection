@@ -10,6 +10,9 @@
 - [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/abs/2106.06340) 2020 ACMMM
 - [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/abs/1908.05932) 2019 ICCV
 - [Deepfacelab: Integrated, Flexible and Extensible Face Swapping Framework](https://arxiv.org/abs/2005.05535) 
+- [One Shot Face Swapping on Megapixels](https://arxiv.org/abs/2105.04932) 2021 CVPR
+
+
 ## DeepFake Detection
 - [Classification-based anomaly detection for general data](https://arxiv.org/abs/2005.02359) 2020 ICLR
 - [Deep Anomaly Detection Using Geometric Transformations](https://arxiv.org/abs/1805.10917) 2020 NeurIPS
