@@ -1,8 +1,8 @@
 # Awesome Deepfake Generation and Detection
 
 ## Table of Contents
--[DeepFake Generation](#DeepFake-Generation)
--[DeepFake Detection](#DeepFake-Detection)
+- [DeepFake Generation](#DeepFake-Generation)
+- [DeepFake Detection](#DeepFake-Detection)
 
 ## DeepFake Generation
 - [Few-Shot Head Swapping in the Wild](https://arxiv.org/abs/2204.13100) 2022 CVPR Oral
