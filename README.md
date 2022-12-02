@@ -11,7 +11,7 @@
 - [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/abs/1908.05932) 2019 ICCV
 - [Deepfacelab: Integrated, Flexible and Extensible Face Swapping Framework](https://arxiv.org/abs/2005.05535) 2020 Arxiv
 - [One Shot Face Swapping on Megapixels](https://arxiv.org/abs/2105.04932) 2021 CVPR
-- [Face Swapping as A Simple Arithmetic Operation](https://arxiv.org/pdf/2211.10812.pdf) 2022 Arxiv
+- [Face Swapping as A Simple Arithmetic Operation](https://arxiv.org/abs/2211.10812) 2022 Arxiv
 - [Towards open-set identity preserving face synthesis](https://arxiv.org/abs/1803.11182) 2018 CVPR
 - [Mobilefaceswap: A lightweight framework for video face swapping](https://arxiv.org/abs/2201.03808) 2022 AAAI
 - [Facecontroller: Controllable attribute editing for face in the wild](https://arxiv.org/abs/2102.11464) 2021 AAAI
