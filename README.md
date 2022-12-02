@@ -12,7 +12,9 @@
 - [Deepfacelab: Integrated, Flexible and Extensible Face Swapping Framework](https://arxiv.org/abs/2005.05535) 
 - [One Shot Face Swapping on Megapixels](https://arxiv.org/abs/2105.04932) 2021 CVPR
 - [Face Swapping as A Simple Arithmetic Operation](https://arxiv.org/pdf/2211.10812.pdf) 2022 Arxiv
-
+- [Towards open-set identity preserving face synthesis](https://arxiv.org/abs/1803.11182) 2018 CVPR
+- [Mobilefaceswap: A lightweight framework for video face swapping](https://arxiv.org/abs/2201.03808) 2022 AAAI
+- [Facecontroller: Controllable attribute editing for face in the wild](https://arxiv.org/abs/2102.11464) 2021 AAAI
 
 ## DeepFake Detection
 - [Classification-based anomaly detection for general data](https://arxiv.org/abs/2005.02359) 2020 ICLR
@@ -28,6 +30,7 @@
 - [MINTIME: Multi-Identity Size-Invariant Video Deepfake Detection](https://arxiv.org/abs/2211.10996) 2022 Arxiv
 - [SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes] 2022 Arxiv
 - [MINTIME: Multi-Identity Size-Invariant Video Deepfake Detection](https://arxiv.org/pdf/2211.10996.pdf) 2022 Arxiv
+
 
 
 ## Dataset
