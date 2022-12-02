@@ -17,16 +17,28 @@
 - [Facecontroller: Controllable attribute editing for face in the wild](https://arxiv.org/abs/2102.11464) 2021 AAAI
 
 ## DeepFake Detection
+- 2018, 2019
+- [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://arxiv.org/abs/1906.06876) 2019 BTAS
+- [ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection](https://arxiv.org/abs/1812.02510) 2018 arXiv
+- 
+- 2020
 - [Classification-based anomaly detection for general data](https://arxiv.org/abs/2005.02359) 2020 ICLR
 - [Deep Anomaly Detection Using Geometric Transformations](https://arxiv.org/abs/1805.10917) 2020 NeurIPS
 - [Cnn-generated images are surprisingly easy to spot... for now](https://arxiv.org/abs/1912.11035) 2020 CVPR
 - [Face x-ray for more general face forgery detection](https://arxiv.org/abs/1912.13458) 2020 CVPR
-- [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://arxiv.org/abs/1906.06876) 2019 BTAS
-- [ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection](https://arxiv.org/abs/1812.02510) 2018 arXiv
+- [Thinking in frequency: Face forgery detection by mining frequency-aware clues](https://arxiv.org/abs/2007.09355) 2020 ECCV
 - [Towards generalizable forgery detection with locality-aware autoencoder](https://arxiv.org/abs/1909.05999) 2020 arXiv
-- [Protecting Celebrities from DeepFake with Identity Consistency Transformer](https://arxiv.org/abs/2203.01318) 2022 CVPR
+- [Face X-ray for More General Face Forgery Detection](https://arxiv.org/abs/1912.13458) 2020 CVPR Oral
+- 
+- 2021
 - [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406) 2021 CVPR
 - [Joint Audio-Visual Deepfake Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf) 2021 ICCV
+- [Generalizing face forgery detection with high-frequency features](https://arxiv.org/abs/2103.12376) 2021 CVPR
+- [Learning Self-Consistency for Deepfake Detection](https://arxiv.org/abs/2012.09311) 2021 ICCV Oral
+- 
+- 2022
+- [Exploring frequency adversarial attacks for face forgery detection](https://arxiv.org/abs/2203.15674) 2022 CVPR
+- [Protecting Celebrities from DeepFake with Identity Consistency Transformer](https://arxiv.org/abs/2203.01318) 2022 CVPR
 - [MINTIME: Multi-Identity Size-Invariant Video Deepfake Detection](https://arxiv.org/abs/2211.10996) 2022 Arxiv
 - [SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes](https://arxiv.org/abs/2211.11296) 2022 Arxiv
 - [Delving into Sequential Patches for Deepfake Detection](https://arxiv.org/abs/2207.02803) 2022 NeurIPS
