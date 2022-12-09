@@ -50,6 +50,11 @@
 - [Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection](https://arxiv.org/abs/2201.07131) 2022 CVPR
 - [Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection](https://arxiv.org/abs/2203.12208) 2022 CVPR Oral
 
+Misc
+- [Deepfake Creation and Detection using Ensemble Deep Learning Models](https://dl.acm.org/doi/10.1145/3549206.3549263) 2022 ICCC
+- [Detecting Deepfake by Creating Spatio-Temporal Regularity Disruption](https://www.semanticscholar.org/paper/Detecting-Deepfake-by-Creating-Spatio-Temporal-Guan-Zhou/8b5eca3481a7ff33d41201c58bb6eb5e33dfdac6) 2022
+- [Deepfake Detection: State-of-the-art and Future Directions](https://dl.acm.org/doi/abs/10.1145/3494109.3527197) 2022 WDC
+
 
 
 ## Dataset
